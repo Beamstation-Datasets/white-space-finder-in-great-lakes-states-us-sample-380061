@@ -1,6 +1,6 @@
 # White Space Finder in Great Lakes States, US
 
-> Free BeamStation sample export with 24 rows and masked direct-contact fields.
+> Free BeamStation sample export with 22 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `380061` |
 | Location | Great Lakes States |
 | Category | Restaurants |
-| Full dataset size | 248 records |
-| Free sample size | 24 records (9.68%) |
-| Last export | 2026-04-14T14:27:23.066510+00:00 |
+| Full dataset size | 223 records |
+| Free sample size | 22 records (9.87%) |
+| Last export | 2026-04-21T15:36:52.897035+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-great-lakes-states-us-sample-380061/releases/download/sample-latest/beamstation_380061_food_and_drink-xx-all_SAMPLE_DIST.csv) |
 
 ## What is in this sample
