@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1179f6b6-2843-4f6e-b564-e3e7d9f567ac",
+  "export_job_id": "d7dc5b41-b67f-4556-af47-920954efd5d8",
   "id_short": 380061,
-  "published_at": "2026-04-28T19:09:43Z",
+  "published_at": "2026-05-06T19:04:58Z",
   "repo_name": "white-space-finder-in-great-lakes-states-us-sample-380061",
   "sample_asset_name": "beamstation_380061_food_and_drink-xx-all_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/380061/beamstation_380061_food_and_drink-xx-all_SAMPLE_DIST.csv",
-  "sample_records": 24,
-  "sample_sha256": "4f85ff494ceec0821438679986163e5c3a471f0d9a4e66cc8b19ea15fb0fc00c",
-  "sample_size_bytes": 102747,
-  "total_records": 248
+  "sample_records": 28,
+  "sample_sha256": "c7f4f8bcc6877b4af13d1e125b0c8927b702f38431f6b42dd92501a9e4ef47db",
+  "sample_size_bytes": 110071,
+  "total_records": 289
 }
